@@ -5,10 +5,10 @@ import wordsToNumbers from "words-to-numbers";
 import NewsCards from "./components/NewsCards/NewsCards";
 import useStyles from "./style.js";
 
-import alanLogo from "./images/alan.jpg";
+// import alanLogo from "./images/alan.jpg";
 import alanLogo2 from "./images/alan.png";
 
-import { fetchNews } from "./components/fetchNews/fetchNews";
+// import { fetchNews } from "./components/fetchNews/fetchNews";
 
 // from https://studio.alan.app/embed/news_reader_app
 const alanKey =
